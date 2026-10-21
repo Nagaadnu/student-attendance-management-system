@@ -29,4 +29,8 @@ This project demonstrates practical front-end web development skills and the dev
 
 Developer
 
+Copyright © 2026 Nagaadnu. All rights reserved.
+
+This project was created by Nagaadnu. Unauthorized copying or redistribution is not permitted.
+
 Najma Project
